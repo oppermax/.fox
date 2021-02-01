@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Max Opperman
+	email = 55201171+oppermax@users.noreply.github.com
+
+[core]
+	editor = nvim
+
+[url "git@github.com:"]
+	insteadOf = https://github.com/
